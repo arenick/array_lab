@@ -1,0 +1,36 @@
+* {
+    font-family: Helvetica, sans-serif;
+}
+.form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 60%;
+    margin: 0 auto;
+}
+
+button {
+    width: 60px;
+    padding: 10px;
+    margin: 10px;
+    background: greenyellow;
+}
+
+#bug1 {
+    border: 2px red solid;
+    margin: 20px;
+    padding: 20px;
+}
+
+#bug2 {
+    border: 2px blue solid;
+    margin: 20px;
+    padding: 20px;
+}
+
+#bug3 {
+    border: 2px yellow solid;
+    margin: 20px;
+    padding: 20px;
+}
